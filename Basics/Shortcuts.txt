@@ -1,0 +1,5 @@
+
+
+psvm + tab ==> sytax for main method
+
+cmd 1 -> navigate to project explorer
